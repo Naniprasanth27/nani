@@ -1,0 +1,14 @@
+input{
+    margin: 10px;
+    
+    
+}
+body{
+    background:linear-gradient(#e394a6 0%, #e0e681 100%);
+}
+
+button{
+    width: inherit;
+    height: inherit;
+    padding: inherit;
+}
